@@ -1,0 +1,48 @@
+/* Label shown while voice search recognition is in progress */
+"Analyzing..." = "Analiz ediliyor…";
+
+/* Voice search error */
+"Connection error" = "Bağlantı hatası";
+
+/* Voice search error */
+"No voice detected" = "Ses tanımlanamadı";
+
+/* Wait label in the voice search UI */
+"Please wait" = "Lütfen bekleyin";
+
+/* Voice search ready button title */
+"Ready" = "Hazır";
+
+/* Voice search retry button label */
+"Retry" = "Tekrar dene";
+
+/* Voice search results title */
+"Searched for:" = "Şu arandı:";
+
+/* Voice search invitation label */
+"Speak" = "Konuşun...";
+
+/* Voice search error */
+"Unknown error" = "Bilinmeyen hata";
+
+/* Voice search error */
+"Voice search not available" = "Sesli arama kullanılamıyor";
+
+/* Permission error */
+"The application does not have permission to use the microphone" = "Uygulamanın mikrofona erişimi yok";
+
+/* Voice search results title */
+"Specify your inquiry" = "Sorgunuzu belirtin";
+
+/* Language selection button */
+"Select" = "Seç";
+
+/* Language selection label */
+"Choose the language" = "Dil seçin";
+
+
+/* Short wait before speaking */
+"One second..." = "Bekleyin...";
+
+/* Voice search results title */
+"Did you mean:" = "Netleştirin:";
